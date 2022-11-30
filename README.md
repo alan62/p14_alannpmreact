@@ -36,7 +36,7 @@ To install, you can use [npm](https://npmjs.org/) :
 </html>
 ```
 
-### In your componenet : 
+### In your component : 
 
 ```jsx
 import { Modal, useModal } from 'npmreactmodal'
