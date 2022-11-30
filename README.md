@@ -6,7 +6,7 @@ Responsive modal dialog component for React.
 
 To install, you can use [npm](https://npmjs.org/) :
 
-    $ npm install npmreactmodal
+    $ npm install alannpmreactmodal
 
   - Use `<Modal>` tag inside your React app.
 
@@ -39,7 +39,7 @@ To install, you can use [npm](https://npmjs.org/) :
 ### In your component : 
 
 ```jsx
-import { Modal, useModal } from 'npmreactmodal'
+import { Modal, useModal } from 'alannpmreactmodal'
 import React from 'react'
 export default function Form() {
   window.React = React
