@@ -1,4 +1,4 @@
-# alanreactmodal
+# alannpmreactmodal
 
 Responsive modal dialog component for React.
 
