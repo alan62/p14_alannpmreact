@@ -39,7 +39,7 @@ To install, you can use [npm](https://npmjs.org/) :
 ### In your component : 
 
 ```jsx
-import { Modal, useModal } from 'alannpmreactmodal'
+import { Modal, useModal } from 'alannpmreactmodal/dist/index'
 import React from 'react'
 export default function Form() {
   window.React = React
