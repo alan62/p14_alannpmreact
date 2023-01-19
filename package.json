@@ -42,5 +42,22 @@
     "@babel/preset-env": "^7.20.2",
     "mkdirp": "^1.0.4",
     "rimraf": "^3.0.2"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alan62/p14_alannpmreact.git"
+  },
+  "author": "AlanB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alan62/p14_alannpmreact/issues"
+  },
+  "homepage": "https://github.com/alan62/p14_alannpmreact/blob/master/README.md"
 }
