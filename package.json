@@ -1,5 +1,5 @@
 {
-  "name": "alannpmreactmodal",
+  "name": "alanbnpmreactmodal",
   "version": "0.1.2",
   "private": false,
   "dependencies": {
@@ -52,7 +52,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alan62/p14_alannpmreact.git"
+    "url": "https://github.com/alan62/p14_alannpmreact.git"
   },
   "author": "AlanB",
   "license": "ISC",
